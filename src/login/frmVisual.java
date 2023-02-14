@@ -16,6 +16,7 @@ public class frmVisual extends javax.swing.JFrame {
      */
     public frmVisual() {
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     /**
